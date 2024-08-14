@@ -1,0 +1,15 @@
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/bin/Debug/net8.0/Console_Apps
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/bin/Debug/net8.0/Console_Apps.deps.json
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/bin/Debug/net8.0/Console_Apps.runtimeconfig.json
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/bin/Debug/net8.0/Console_Apps.dll
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/bin/Debug/net8.0/Console_Apps.pdb
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/Console_Apps.GeneratedMSBuildEditorConfig.editorconfig
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/Console_Apps.AssemblyInfoInputs.cache
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/Console_Apps.AssemblyInfo.cs
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/Console_Apps.csproj.CoreCompileInputs.cache
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/Console_Apps.sourcelink.json
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/Console_Apps.dll
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/refint/Console_Apps.dll
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/Console_Apps.pdb
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/Console_Apps.genruntimeconfig.cache
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/Debug/net8.0/ref/Console_Apps.dll

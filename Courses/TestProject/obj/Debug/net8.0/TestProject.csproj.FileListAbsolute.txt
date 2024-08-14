@@ -1,0 +1,15 @@
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/bin/Debug/net8.0/TestProject
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/Debug/net8.0/ref/TestProject.dll
