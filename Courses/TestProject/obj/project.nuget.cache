@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xe84GIrZkxgwRO5VvDKQCedcPBJkPfkCA0TRn/m2OpLSU+a7Y/Sg9ZscSObjM/qt9j5DrJiZOPbHOBj9VBO93Q==",
+  "dgSpecHash": "bhdhW7NQTn7IxS1sgYpm5DtLO59A2+FybmCLvqXQP1g0vDYB2d6uYqw2c8uV6jDbLpTrIiKPKTlxLYFvQLsiqA==",
   "success": true,
-  "projectFilePath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/TestProject.csproj",
+  "projectFilePath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/TestProject/TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

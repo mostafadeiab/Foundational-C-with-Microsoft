@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/TestProject.csproj",
+      "projectUniqueName": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/TestProject.csproj",
+      "projectPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/TestProject/TestProject.csproj",
       "packagesPath": "/home/mostafa/.nuget/packages/",
-      "outputPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Introduction/TestProject/obj/",
+      "outputPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mostafa/.nuget/NuGet/NuGet.Config"
