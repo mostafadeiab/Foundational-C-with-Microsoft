@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Console_Apps
-build_property.ProjectDir = /home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/
+build_property.ProjectDir = /home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/Console_Apps/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

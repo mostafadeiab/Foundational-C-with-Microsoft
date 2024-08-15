@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Arrays_Extra/Arrays_Extra.csproj": {}
+    "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/Arrays_Extra/Arrays_Extra.csproj": {}
   },
   "projects": {
-    "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Arrays_Extra/Arrays_Extra.csproj": {
+    "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/Arrays_Extra/Arrays_Extra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Arrays_Extra/Arrays_Extra.csproj",
+        "projectUniqueName": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/Arrays_Extra/Arrays_Extra.csproj",
         "projectName": "Arrays_Extra",
-        "projectPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Arrays_Extra/Arrays_Extra.csproj",
+        "projectPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/Arrays_Extra/Arrays_Extra.csproj",
         "packagesPath": "/home/mostafa/.nuget/packages/",
-        "outputPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Arrays_Extra/obj/",
+        "outputPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/Arrays_Extra/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mostafa/.nuget/NuGet/NuGet.Config"

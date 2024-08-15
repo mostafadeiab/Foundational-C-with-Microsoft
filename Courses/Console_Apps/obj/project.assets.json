@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/Console_Apps.csproj",
+      "projectUniqueName": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/Console_Apps/Console_Apps.csproj",
       "projectName": "Console_Apps",
-      "projectPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/Console_Apps.csproj",
+      "projectPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/Console_Apps/Console_Apps.csproj",
       "packagesPath": "/home/mostafa/.nuget/packages/",
-      "outputPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/",
+      "outputPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/Console_Apps/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mostafa/.nuget/NuGet/NuGet.Config"

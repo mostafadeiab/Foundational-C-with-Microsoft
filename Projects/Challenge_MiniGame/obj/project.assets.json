@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Projects/Challenge_MiniGame/Challenge_MiniGame.csproj",
+      "projectUniqueName": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Projects/Challenge_MiniGame/Challenge_MiniGame.csproj",
       "projectName": "Challenge_MiniGame",
-      "projectPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Projects/Challenge_MiniGame/Challenge_MiniGame.csproj",
+      "projectPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Projects/Challenge_MiniGame/Challenge_MiniGame.csproj",
       "packagesPath": "/home/mostafa/.nuget/packages/",
-      "outputPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Projects/Challenge_MiniGame/obj/",
+      "outputPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Projects/Challenge_MiniGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mostafa/.nuget/NuGet/NuGet.Config"
