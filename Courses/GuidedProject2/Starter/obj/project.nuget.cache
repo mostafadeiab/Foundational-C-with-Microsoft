@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "b5kLjpwCTOKnaWGteaDyyLRSlBPtvBsVKICrEdctZBoyv9HvNrz4zC8oVePEzPm293R9sTFiZQ/zMuQsfn8A9w==",
   "success": true,
   "projectFilePath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/GuidedProject2/Starter/Starter.csproj",
+=======
+  "dgSpecHash": "cFA7fU7jBWk9ZOmNkRrafscNrD8qWjHc6SjfDEldgwdMXRBX3fV7Od5GW4VnelTP9cr08cMuOtIfL3h+5eNQYw==",
+  "success": true,
+  "projectFilePath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/GuidedProject2/Starter/Starter.csproj",
+>>>>>>> 36cd17390efb042c916ad0c486aa0ef9ec9ff24c
   "expectedPackageFiles": [],
   "logs": []
 }

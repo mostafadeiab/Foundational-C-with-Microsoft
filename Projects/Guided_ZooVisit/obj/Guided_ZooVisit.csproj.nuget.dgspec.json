@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mostafa/Repos/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/Guided_ZooVisit.csproj": {}
+    "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/Guided_ZooVisit.csproj": {}
   },
   "projects": {
-    "/home/mostafa/Repos/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/Guided_ZooVisit.csproj": {
+    "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/Guided_ZooVisit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/Guided_ZooVisit.csproj",
+        "projectUniqueName": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/Guided_ZooVisit.csproj",
         "projectName": "Guided_ZooVisit",
-        "projectPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/Guided_ZooVisit.csproj",
+        "projectPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/Guided_ZooVisit.csproj",
         "packagesPath": "/home/mostafa/.nuget/packages/",
-        "outputPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/obj/",
+        "outputPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Projects/Guided_ZooVisit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mostafa/.nuget/NuGet/NuGet.Config"

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/TestProject/TestProject.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/TestProject/TestProject.csproj",
         "packagesPath": "/home/mostafa/.nuget/packages/",
         "outputPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/TestProject/obj/",
+=======
+    "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/TestProject/TestProject.csproj": {}
+  },
+  "projects": {
+    "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/TestProject/TestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/TestProject/TestProject.csproj",
+        "projectName": "TestProject",
+        "projectPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/TestProject/TestProject.csproj",
+        "packagesPath": "/home/mostafa/.nuget/packages/",
+        "outputPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/TestProject/obj/",
+>>>>>>> 36cd17390efb042c916ad0c486aa0ef9ec9ff24c
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mostafa/.nuget/NuGet/NuGet.Config"

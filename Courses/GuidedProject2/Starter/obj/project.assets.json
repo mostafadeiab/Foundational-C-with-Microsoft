@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/GuidedProject2/Starter/Starter.csproj",
       "projectName": "Starter",
       "projectPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/GuidedProject2/Starter/Starter.csproj",
       "packagesPath": "/home/mostafa/.nuget/packages/",
       "outputPath": "/home/mostafa/Repos/Foundational-C-with-Microsoft/Courses/GuidedProject2/Starter/obj/",
+=======
+      "projectUniqueName": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/GuidedProject2/Starter/Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/GuidedProject2/Starter/Starter.csproj",
+      "packagesPath": "/home/mostafa/.nuget/packages/",
+      "outputPath": "/home/mostafa/Certifications/Foundational-C-with-Microsoft/Courses/GuidedProject2/Starter/obj/",
+>>>>>>> 36cd17390efb042c916ad0c486aa0ef9ec9ff24c
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mostafa/.nuget/NuGet/NuGet.Config"
